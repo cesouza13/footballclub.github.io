@@ -1,0 +1,42 @@
+#tabela-cadastro-pagamento {
+    width: 100%;
+}
+
+p {
+    color: blue;
+  }
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  footer {
+    background-color: #333;
+    padding: 1px;
+    text-align: center;
+  }
+
+  
+  
+  
